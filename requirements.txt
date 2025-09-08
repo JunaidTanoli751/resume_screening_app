@@ -2,3 +2,4 @@ docx2txt==0.9
 joblib==1.4.2
 PyPDF2==3.0.1
 streamlit==1.37.1
+scikit-learn
